@@ -1,0 +1,50 @@
+flipart2.css
+{
+    margin: 0%;
+    padding: 0%;
+}
+nav{
+    display: flex;
+    background-color: rgb(2, 2, 252)
+    color(srgb white)
+}
+nav .logo{
+    margin-left: 44%;
+    margin-top: 5%;
+    width: 30%;
+}
+.logo p{
+    margin-left: 44%;
+}
+nav input{
+    width: 30% ;
+    height: 10;
+    padding: 10px;
+    outline: none;
+    border: none;
+    margin-top: 2%;
+    font-size: 15px;
+}
+nav i{
+    margin-top: 19px;
+    margin-left: -25px;
+    color:  rgb(30, 30, 226);
+    font-size: 18px;
+}
+ul{
+    display: flex;
+    list-style: none;
+    font-size: 18px;
+    margin-left: 10px;
+    padding: 10px;
+    font-size: 22px;
+}
+ul li a{
+    margin-inline: 25px;
+    font-size: 18px;
+    list-style: none;
+    margin-top: 1px;
+}
+
+    
+
